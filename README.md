@@ -59,6 +59,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Design Systems Lead](https://www.linkedin.com/jobs/view/3107415241/)|Fyllo|Remote<br>Mainland US, Armenia, Portugal, Germany, Israel, Denmark|
 |⚡[Senior Visual Designer](https://h2oai.applytojob.com/apply/91noxnSpCI/Senior-Visual-Designer-Mountain-ViewRemote)|h2o.ai|Mountain View, CA, USA<br>Remote|
 |⚡[User Experience Lead, Design Operations](https://careers.tripadvisor.com/job/TRINUS1722095/User-Experience-Lead-Design-Operations)|TripAdvisor|Needham, MA, USA|
 |⚡[Sr Visual Systems Designer](https://carmax.wd1.myworkdayjobs.com/en-US/External/job/Corporate---Richmond/Sr-Visual-Systems-Designer_JR-011547)|CarMax|Richmond, VA, USA|
